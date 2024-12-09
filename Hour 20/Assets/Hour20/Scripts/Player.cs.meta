@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6cec5bcc12cbde4aa7ac19dca687254
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manager: {instanceID: 0}
+  - normalMat: {fileID: 2100000, guid: dc696444f7cf032469099617451faa61, type: 2}
+  - phasedMat: {fileID: 2100000, guid: 67d24cf9019886246babf1a1b0ec936f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
